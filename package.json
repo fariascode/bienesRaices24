@@ -1,0 +1,28 @@
+{
+  "name": "bienesraices24",
+  "version": "1.0.0",
+  "description": "Proyecto de apoyo para la asignatura de AWOS, realizando una Aplicación Web en arquitectura SOA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fariascode/bienesRaices24.git"
+  },
+  "keywords": [
+    "MySQL",
+    "Node",
+    "API",
+    "tailwindcss"
+  ],
+  "author": "T.S.U Al Farias Leyva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fariascode/bienesRaices24/issues"
+  },
+  "homepage": "https://github.com/fariascode/bienesRaices24#readme",
+  "devDependencies": {
+    "express": "^4.21.1"
+  }
+}
