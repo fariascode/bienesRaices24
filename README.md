@@ -12,10 +12,11 @@ Para poder demostrar y aprender la creación y consumo de Interfaces de Programa
 | No. | Fecha      | Descripción                                               | Estatus      |
 | --- | ---------- | --------------------------------------------------------- | ------------ |
 | 1.  | 24/10/24   | Nuevo Repositorio del Proyecto Implementando .gitignore   | Finalizada✅ |
-| 2.  |            |                                                           |              |
+| 2.  | 25/10/23   | Creación de las paginas Registro, Login y Olvidé mi Password | Finalizada ✅|
 
 
-⭐⭐
+
+⭐
 
 ### Autor
 
