@@ -13,8 +13,7 @@ Para poder demostrar y aprender la creación y consumo de Interfaces de Programa
 | --- | ---------- | --------------------------------------------------------- | ------------ |
 | 1.  | 24/10/24   | Nuevo Repositorio del Proyecto Implementando .gitignore   | Finalizada✅ |
 | 2.  | 25/10/23   | Creación de las paginas Registro, Login y Olvidé mi Password | Finalizada ✅|
-
-
+| 3.  | 25/10/23   | ORM'S y Bases de Datos                                     | Finalizada ✅|            
 
 ⭐⭐
 
